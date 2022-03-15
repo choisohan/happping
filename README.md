@@ -26,7 +26,7 @@
 
   
 <br/>
- # Blog Posts
+# Blog Posts
   
   
 <!-- BLOG-POST-LIST:START -->
